@@ -1,0 +1,13 @@
+.cardContent {
+    width: 400px;
+    padding: 1rem 1rem 1rem 3rem;
+    margin: 2rem auto;
+    background-color: cyan;
+    border-radius: 5px;
+    color: #000000;
+    text-align: left;
+}
+
+.cardContent h3 {
+    text-align: center;
+}
