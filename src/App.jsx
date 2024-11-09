@@ -37,7 +37,7 @@ function App() {
             <input type="text" onChange={(e) => setNombre( e.target.value )} />
           </div>
           <div>
-            <label >Dirección:</label>
+            <label >Pais:</label>
             <input type="text" onChange={(e) => setPais( e.target.value )} />
           </div>
           <div>
