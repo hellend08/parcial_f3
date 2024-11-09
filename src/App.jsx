@@ -47,7 +47,7 @@ function App() {
           <button>Enviar</button>
           {error && (
               <h4 className="error">
-                Por favor, coloque la información correctamente
+              Por favor chequea que la información sea correcta
               </h4>
             )}
         </form>
